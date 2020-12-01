@@ -1,0 +1,11 @@
+Emp Id,Emp Name,Department,Manager Emp Id,Gross Salary [In INR],Experience In Years
+A127,Anirban Roy,IT,Ankit Sharma,1643000,7
+A205,Suresh Paramanandan,Sales,Anshuman Gupta,1134000,8
+A104,Nancy Mathew,IT,Ankit Sharma,1749000,9
+A176,Ankit Sharma,IT,Robert Vargheese,1348000,9
+A194,Abdul Ajees,Marketing,Asif Mustafa,1569000,10
+A135,Aruna Surendar,Sales,Asif Mustafa,2350000,11
+A164,Asif Mustafa,Sales,Anshuman Gupta,2856000,16
+A192,Robert Vargheese,IT,none of manager,3105000,19
+A189,Anshuman Gupta,Sales,none of manager,3124000,20
+A169,Sundar Ramanujam,Marketing,Asif Mustafa,1900000,23
