@@ -30,7 +30,8 @@ compile group: 'org.springframework', name: 'spring-jdbc', version: '5.2.9.RELEA
 	// https://mvnrepository.com/artifact/org.aspectj/aspectjtools
 compile group: 'org.aspectj', name: 'aspectjtools', version: '1.9.6'
 	
-}
+compile "org.springframework.boot:spring-boot-starter-data-redis-reactive:${springVersion}"
+compile "org.springframework.session:spring-session-data-redis:${springVersion}"}
 
 test {
 	useJUnitPlatform()
